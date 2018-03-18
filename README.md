@@ -42,7 +42,7 @@ history_list = []
 ```
 
 ## Function 1
-*- Serch for key word and filter out the new request.*
+*Serch for key word and filter out the new request.*
 
 
 ```python
@@ -62,7 +62,7 @@ def check_key_word():
 ```
 
 ## Function 2
-*- Analyze the sentiments of 500 tweets.*
+*Analyze the sentiments of 500 tweets.*
 
 
 ```python
@@ -90,7 +90,7 @@ def sentiments_list(target_user):
 ```
 
 ## Final Function
-*- Combine all fuctions together to plot the data and then update figures to Timeline on Twitter.*
+*Combine all fuctions together to plot the data and then update figures to Timeline on Twitter.*
 
 
 ```python
@@ -118,7 +118,7 @@ def PlotBot():
 ```
 
 ## Timer
-*- Run the function to check if there are new requests every 5 minutes.*
+*Run the function to check if there are new requests every 5 minutes.*
 
 
 ```python
